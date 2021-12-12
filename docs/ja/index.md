@@ -20,9 +20,11 @@ Sonolus に関する全てのナレッジベース
 ## プレイヤー向け
 
 ::: CardList category="player"
+
 :::
 
 ## 開発者向け
 
 ::: CardList category="developer"
+
 :::

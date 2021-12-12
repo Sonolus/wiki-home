@@ -19,8 +19,12 @@ Sonolus에 대한 모든 정보가 담겨있는 지식 센터입니다.
 
 ## 플레이어
 
-::: CardList category="player" :::
+::: CardList category="player"
+
+:::
 
 ## 개발자
 
-::: CardList category="developer" :::
+::: CardList category="developer"
+
+:::

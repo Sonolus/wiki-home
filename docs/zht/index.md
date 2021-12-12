@@ -19,8 +19,12 @@ developer:
 
 ## 玩家
 
-::: CardList category="player" :::
+::: CardList category="player"
+
+:::
 
 ## 開發者
 
-::: CardList category="developer" :::
+::: CardList category="developer"
+
+:::

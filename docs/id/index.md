@@ -20,9 +20,11 @@ Informasi untuk segala sesuatu tentang Sonolus.
 ## Pemain
 
 ::: CardList category="player"
+
 :::
 
 ## Pengembang
 
 ::: CardList category="developer"
+
 :::

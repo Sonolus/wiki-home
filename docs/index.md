@@ -20,9 +20,11 @@ Knowledge center for everything about Sonolus.
 ## Player
 
 ::: CardList category="player"
+
 :::
 
 ## Developer
 
 ::: CardList category="developer"
+
 :::
