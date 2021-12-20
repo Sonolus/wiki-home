@@ -1,16 +1,16 @@
 ---
 title: 홈
 player:
-    - url: '/release-notes'
-      title: 릴리즈 노트
-      description: Sonolus의 최신 및 이전 릴리즈에 관한 정보
+  - url: "/release-notes/ko"
+    title: 릴리즈 노트
+    description: Sonolus의 최신 및 이전 릴리즈에 관한 정보
 developer:
-    - url: '/sonolus.js-guide'
-      title: Sonolus.js 가이드
-      description: Sonolus.js를 사용한 엔진 개발 가이드
-    - url: '/custom-server-specs'
-      title: 커스텀 서버 스펙
-      description: 커스텀 서버에 관한 스펙
+  - url: "/sonolus.js-guide"
+    title: Sonolus.js 가이드
+    description: Sonolus.js를 사용한 엔진 개발 가이드
+  - url: "/custom-server-specs"
+    title: 커스텀 서버 스펙
+    description: 커스텀 서버에 관한 스펙
 ---
 
 # Sonolus 위키
