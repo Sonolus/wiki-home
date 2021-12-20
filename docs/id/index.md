@@ -1,16 +1,16 @@
 ---
 title: Home
 player:
-    - url: '/release-notes'
-      title: Catatan Rilis
-      description: Informasi rilis terbaru dan sebelumnya dari Sonolus
+  - url: "/release-notes/id"
+    title: Catatan Rilis
+    description: Informasi rilis terbaru dan sebelumnya dari Sonolus
 developer:
-    - url: '/sonolus.js-guide'
-      title: Panduan Sonolus.js
-      description: Panduan untuk pengembangan mesin menggunakan Sonolus.js
-    - url: '/custom-server-specs'
-      title: Spesifikasi Kustom Server
-      description: Spesifikasi untuk kustom server
+  - url: "/sonolus.js-guide"
+    title: Panduan Sonolus.js
+    description: Panduan untuk pengembangan mesin menggunakan Sonolus.js
+  - url: "/custom-server-specs"
+    title: Spesifikasi Kustom Server
+    description: Spesifikasi untuk kustom server
 ---
 
 # Sonolus Wiki
