@@ -1,6 +1,9 @@
 ---
 title: Home
 player:
+    - url: /getting-started
+      title: Getting Started
+      description: Getting started with Sonolus
     - url: /release-notes
       title: Release Notes
       description: Information of latest and past releases of Sonolus
