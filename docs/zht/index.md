@@ -8,7 +8,7 @@ developer:
   - url: "/sonolus.js-guide"
     title: Sonolus.js指南
     description: 使用Sonolus.js進行引擎開發的指南
-  - url: "/custom-server-specs"
+  - url: "/custom-server-specs/zht"
     title: 自定義伺服器說明
     description: 自定義服務器的詳細說明
 ---
