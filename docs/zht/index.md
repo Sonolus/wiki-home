@@ -1,6 +1,9 @@
 ---
 title: 主頁
 player:
+  - url: "/getting-started/zht"
+    title: 新手入門
+    description: Sonolus入門指南
   - url: "/release-notes/zht"
     title: 更新日誌
     description: Sonolus最新版本以及過往版本的更新資訊
