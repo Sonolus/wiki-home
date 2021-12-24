@@ -1,6 +1,9 @@
 ---
 title: ホーム
 player:
+  - url: "/getting-started/ja"
+    title: はじめに
+    description: Sonolusを遊び始めるには
   - url: "/release-notes/ja"
     title: リリースノート
     description: Sonolusの過去から最新まで全てのリリース情報
