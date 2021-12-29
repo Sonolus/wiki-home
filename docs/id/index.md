@@ -1,6 +1,9 @@
 ---
 title: Home
 player:
+  - url: "/getting-started/id"
+    title: Mulai
+    description: Memulai dengan Sonolus
   - url: "/release-notes/id"
     title: Catatan Rilis
     description: Informasi rilis terbaru dan sebelumnya dari Sonolus
