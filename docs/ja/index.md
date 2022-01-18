@@ -11,7 +11,7 @@ developer:
   - url: "/sonolus.js-guide/ja"
     title: Sonolus.js ガイド
     description: Sonolus.jsを使ったエンジン開発のガイド
-  - url: "/custom-server-specs"
+  - url: "/custom-server-specs/ja"
     title: カスタムサーバー仕様
     description: カスタムサーバーを実装するための仕様書
 ---
