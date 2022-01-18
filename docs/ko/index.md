@@ -1,6 +1,9 @@
 ---
 title: 홈
 player:
+  - url: "/getting-started/ko"
+    title: 시작하기
+    description: Sonolus 시작하기
   - url: "/release-notes/ko"
     title: 릴리즈 노트
     description: Sonolus의 최신 및 이전 릴리즈에 관한 정보
