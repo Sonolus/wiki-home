@@ -14,6 +14,9 @@ developer:
     - url: /custom-server-specs
       title: Custom Server Specs
       description: Specifications for custom servers
+    - url: /engine-specs
+      title: Engine Specs
+      description: Specifications for Sonolus engines
 ---
 
 # Sonolus Wiki
