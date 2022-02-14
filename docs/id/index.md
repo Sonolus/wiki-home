@@ -13,7 +13,10 @@ developer:
     description: Panduan untuk pengembangan mesin menggunakan Sonolus.js
   - url: "/custom-server-specs"
     title: Spesifikasi Kustom Server
-    description: Spesifikasi untuk kustom server
+    description: Spesifikasi untuk kustom server Sonolus
+  - url: "/engine-specs"
+    title: Spek Mesin
+    description: Spesifikasi untuk mesin Sonolus
 ---
 
 # Sonolus Wiki

@@ -13,7 +13,10 @@ developer:
     description: 使用 Sonolus.js 进行引擎开发的向导
   - url: "/custom-server-specs"
     title: 自定义服务器规格
-    description: 自定义服务器的规格
+    description: Sonolus 自定义服务器的规格
+  - url: "/engine-specs"
+    title: 引擎规格
+    description: Sonolus 引擎的规格
 ---
 
 # Sonolus 百科

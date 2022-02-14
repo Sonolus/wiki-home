@@ -14,6 +14,9 @@ developer:
   - url: "/custom-server-specs"
     title: 커스텀 서버 스펙
     description: 커스텀 서버에 관한 스펙
+  - url: "/engine-specs"
+    title: 엔진 스펙
+    description: Sonolus 엔진에 관한 스펙
 ---
 
 # Sonolus 위키
