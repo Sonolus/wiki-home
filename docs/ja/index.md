@@ -13,7 +13,10 @@ developer:
     description: Sonolus.jsを使ったエンジン開発のガイド
   - url: "/custom-server-specs/ja"
     title: カスタムサーバー仕様
-    description: カスタムサーバーを実装するための仕様書
+    description: Sonolusカスタムサーバーを実装するための仕様書
+  - url: "/engine-specs"
+    title: エンジン仕様
+    description: Sonolusエンジンを実装するための仕様書
 ---
 
 # Sonolus Wiki
