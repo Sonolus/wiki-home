@@ -1,7 +1,7 @@
 ---
 title: Trang chủ
 player:
-  - url: "/getting-started"
+  - url: "/getting-started/vi"
     title: Khởi đầu
     description: Bắt đầu với Sonolus
   - url: "/release-notes"
