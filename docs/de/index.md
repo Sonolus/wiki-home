@@ -1,7 +1,7 @@
 ---
 title: Startseite
 player:
-  - url: "/getting-started"
+  - url: "/getting-started/de"
     title: Erste Schritte
     description: Die ersten Schritte mit Sonolus
   - url: "/release-notes"
