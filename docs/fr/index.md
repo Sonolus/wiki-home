@@ -1,21 +1,21 @@
 ---
 title: Home
 player:
-  - url: "/getting-started"
-  title: Getting Started
-  description: Getting started with Sonolus
-  - url: "/release-notes"
-  title: Release Notes
-  description: Information of latest and past releases of Sonolus
+  - url: "/commencer"
+  title: Commencer
+  description: Démarrer avec Sonolus
+  - url: "/notes de version"
+  title: Notes de version
+  description: Informations sur les versions les plus récentes et passées de Sonolus
 developer:
   - url: "/sonolus.js-guide"
-  title: Sonolus.js Guide
-  description: Guide to engine development using Sonolus.js
-  - url: "/custom-server-specs"
-  title: Custom Server Specs
-  description: Specifications for Sonolus custom servers
+  title: Guide Sonolus.js
+  description: "Guide de développement de moteur à l'aide de Sonolus.js"
+  - url: "/spécifications-du-serveur-personnalisé"
+  title: Spécifications du serveur personnalisé
+  description: Spécifications des serveurs personnalisés Sonolus
   - url: "/specs-engine"
-  title: Engine Specs
+  title: Spécifications du moteur
   description: "Spécifications d'engine Sonolus (maintenant engine va s'appeler "moteur" mais sur le jeux reste "engine".)"
 ---
 
