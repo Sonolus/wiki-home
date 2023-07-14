@@ -1,22 +1,22 @@
 ---
 title: 主頁
 player:
-  - url: "/getting-started/zht"
-    title: 新手入門
-    description: Sonolus入門指南
-  - url: "/release-notes/zht"
-    title: 更新日誌
-    description: Sonolus最新版本以及過往版本的更新資訊
+    - url: '/getting-started/zht'
+      title: 新手入門
+      description: Sonolus入門指南
+    - url: '/release-notes/zht'
+      title: 更新日誌
+      description: Sonolus最新版本以及過往版本的更新資訊
 developer:
-  - url: "/sonolus.js-guide"
-    title: Sonolus.js指南
-    description: 使用Sonolus.js進行引擎開發的指南
-  - url: "/custom-server-specs/zht"
-    title: 自定義伺服器說明
-    description: 有關自定義伺服器的詳細資料
-  - url: "/engine-specs"
-    title: 引擎說明
-    description: 有關Sonolus引擎的詳細資料
+    - url: '/sonolus.js-guide'
+      title: Sonolus.js指南
+      description: 使用Sonolus.js進行引擎開發的指南
+    - url: '/custom-server-specs/zht'
+      title: 自定義伺服器說明
+      description: 有關自定義伺服器的詳細資料
+    - url: '/engine-specs'
+      title: 引擎說明
+      description: 有關Sonolus引擎的詳細資料
 ---
 
 # Sonolus 百科
