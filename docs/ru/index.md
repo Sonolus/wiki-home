@@ -23,13 +23,13 @@ developer:
 
 Центр знаний обо всём про Sonolus.
 
-## Player
+## Игрок
 
 ::: CardList category="player"
 
 :::
 
-## Developer
+## Разработчик
 
 ::: CardList category="developer"
 
