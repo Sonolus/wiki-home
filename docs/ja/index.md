@@ -14,6 +14,21 @@ developer:
     - url: '/custom-server-specs/ja'
       title: カスタムサーバー仕様
       description: Sonolusカスタムサーバーを実装するための仕様書
+    - url: /level-specs
+      title: Level Specs
+      description: Specification for Sonolus levels
+    - url: /skin-specs
+      title: Skin Specs
+      description: Specification for Sonolus skins
+    - url: /background-specs
+      title: Background Specs
+      description: Specification for Sonolus backgrounds
+    - url: /effect-specs
+      title: Effect Specs
+      description: Specification for Sonolus effects
+    - url: /particle-specs
+      title: Particle Specs
+      description: Specification for Sonolus particles
     - url: '/engine-specs'
       title: エンジン仕様
       description: Sonolusエンジンを実装するための仕様書

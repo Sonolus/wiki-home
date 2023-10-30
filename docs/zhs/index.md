@@ -14,6 +14,21 @@ developer:
     - url: '/custom-server-specs'
       title: 自定义服务器规格
       description: Sonolus 自定义服务器的规格
+    - url: /level-specs
+      title: Level Specs
+      description: Specification for Sonolus levels
+    - url: /skin-specs
+      title: Skin Specs
+      description: Specification for Sonolus skins
+    - url: /background-specs
+      title: Background Specs
+      description: Specification for Sonolus backgrounds
+    - url: /effect-specs
+      title: Effect Specs
+      description: Specification for Sonolus effects
+    - url: /particle-specs
+      title: Particle Specs
+      description: Specification for Sonolus particles
     - url: '/engine-specs'
       title: 引擎规格
       description: Sonolus 引擎的规格

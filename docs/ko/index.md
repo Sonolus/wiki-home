@@ -14,6 +14,21 @@ developer:
     - url: '/custom-server-specs'
       title: 커스텀 서버 스펙
       description: 커스텀 서버에 관한 스펙
+    - url: /level-specs
+      title: Level Specs
+      description: Specification for Sonolus levels
+    - url: /skin-specs
+      title: Skin Specs
+      description: Specification for Sonolus skins
+    - url: /background-specs
+      title: Background Specs
+      description: Specification for Sonolus backgrounds
+    - url: /effect-specs
+      title: Effect Specs
+      description: Specification for Sonolus effects
+    - url: /particle-specs
+      title: Particle Specs
+      description: Specification for Sonolus particles
     - url: '/engine-specs'
       title: 엔진 스펙
       description: Sonolus 엔진에 관한 스펙
