@@ -14,6 +14,21 @@ developer:
     - url: '/spécifications-du-serveur-personnalisé'
       title: Spécifications du serveur personnalisé
       description: Spécifications des serveurs personnalisés Sonolus
+    - url: /level-specs
+      title: Level Specs
+      description: Specification for Sonolus levels
+    - url: /skin-specs
+      title: Skin Specs
+      description: Specification for Sonolus skins
+    - url: /background-specs
+      title: Background Specs
+      description: Specification for Sonolus backgrounds
+    - url: /effect-specs
+      title: Effect Specs
+      description: Specification for Sonolus effects
+    - url: /particle-specs
+      title: Particle Specs
+      description: Specification for Sonolus particles
     - url: '/specs-engine'
       title: Spécifications du moteur
       description: Spécifications d'engine Sonolus (maintenant engine va s'appeler "moteur" mais sur le jeux reste "engine".)

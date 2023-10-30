@@ -14,6 +14,21 @@ developer:
     - url: '/custom-server-specs/zht'
       title: 自定義伺服器說明
       description: 有關自定義伺服器的詳細資料
+    - url: /level-specs
+      title: Level Specs
+      description: Specification for Sonolus levels
+    - url: /skin-specs
+      title: Skin Specs
+      description: Specification for Sonolus skins
+    - url: /background-specs
+      title: Background Specs
+      description: Specification for Sonolus backgrounds
+    - url: /effect-specs
+      title: Effect Specs
+      description: Specification for Sonolus effects
+    - url: /particle-specs
+      title: Particle Specs
+      description: Specification for Sonolus particles
     - url: '/engine-specs'
       title: 引擎說明
       description: 有關Sonolus引擎的詳細資料

@@ -14,6 +14,21 @@ developer:
     - url: '/custom-server-specs'
       title: Điều kiện và thông số về máy chủ
       description: Điều kiện và thông số dành cho máy chủ tự tạo
+    - url: /level-specs
+      title: Level Specs
+      description: Specification for Sonolus levels
+    - url: /skin-specs
+      title: Skin Specs
+      description: Specification for Sonolus skins
+    - url: /background-specs
+      title: Background Specs
+      description: Specification for Sonolus backgrounds
+    - url: /effect-specs
+      title: Effect Specs
+      description: Specification for Sonolus effects
+    - url: /particle-specs
+      title: Particle Specs
+      description: Specification for Sonolus particles
     - url: '/engine-specs'
       title: Điều kiện và thông số dành cho engine
       description: Điều kiện và thông số dành cho engine
