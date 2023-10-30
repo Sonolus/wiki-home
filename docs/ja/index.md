@@ -8,7 +8,7 @@ player:
       title: リリースノート
       description: Sonolusの過去から最新まで全てのリリース情報
 developer:
-    - url: '/sonolus.js-guide/ja'
+    - url: '/sonolus.js-guide'
       title: Sonolus.js ガイド
       description: Sonolus.jsを使ったエンジン開発のガイド
     - url: '/custom-server-specs/ja'

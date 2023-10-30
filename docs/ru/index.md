@@ -1,10 +1,10 @@
 ---
 title: Домашняя страница
 player:
-    - url: '/getting-started'
+    - url: '/getting-started/ru'
       title: Начало работы
       description: Начало работы с Sonolus
-    - url: '/release-notes'
+    - url: '/release-notes/ru'
       title: Заметки релизов
       description: "Информация последних и прошлых релизов Sonolus'а"
 developer:

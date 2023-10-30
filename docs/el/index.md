@@ -1,7 +1,7 @@
 ---
 title: Σπίτι
 player:
-    - url: '/getting-started/el'
+    - url: '/getting-started'
       title: Ξεκινώντας
       description: Ξεκινώντας με το Sonolus
     - url: '/release-notes'
