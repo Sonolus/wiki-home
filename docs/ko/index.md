@@ -1,37 +1,37 @@
 ---
 title: 홈
 player:
-    - url: '/getting-started/ko'
-      title: 시작하기
-      description: Sonolus 시작하기
-    - url: '/release-notes/ko'
-      title: 릴리즈 노트
-      description: Sonolus의 최신 및 이전 릴리즈에 관한 정보
+  - url: "/getting-started/ko"
+  title: 시작하기
+  description: Sonolus 시작하기
+  - url: "/release-notes/ko"
+  title: 릴리즈 노트
+  description: Sonolus의 최신 및 이전 릴리즈에 관한 정보
 developer:
-    - url: '/sonolus.js-guide'
-      title: Sonolus.js 가이드
-      description: Sonolus.js를 사용한 엔진 개발 가이드
-    - url: '/custom-server-specs'
-      title: 커스텀 서버 스펙
-      description: 커스텀 서버에 관한 스펙
-    - url: /level-specs
-      title: Level Specs
-      description: Specification for Sonolus levels
-    - url: /skin-specs
-      title: Skin Specs
-      description: Specification for Sonolus skins
-    - url: /background-specs
-      title: Background Specs
-      description: Specification for Sonolus backgrounds
-    - url: /effect-specs
-      title: Effect Specs
-      description: Specification for Sonolus effects
-    - url: /particle-specs
-      title: Particle Specs
-      description: Specification for Sonolus particles
-    - url: '/engine-specs'
-      title: 엔진 스펙
-      description: Sonolus 엔진에 관한 스펙
+  - url: "/sonolus.js-guide"
+  title: Sonolus.js 가이드
+  description: Sonolus.js를 사용한 엔진 개발 가이드
+  - url: "/custom-server-specs"
+  title: 커스텀 서버 사양
+  description: Sonolus 커스텀 서버의 사양
+  - url: "/level-specs"
+  title: 레벨 사양
+  description: Sonolus 레벨의 사양
+  - url: "/skin-specs"
+  title: 스킨 사양
+  description: Sonolus 스킨의 사양
+  - url: "/background-specs"
+  title: 배경 사양
+  description: Sonolus 배경의 사양
+  - url: "/effect-specs"
+  title: 효과 사양
+  description: Sonolus 효과의 사양
+  - url: "/particle-specs"
+  title: 입자 사양
+  description: Sonolus 입자의 사양
+  - url: "/engine-specs"
+  title: 엔진 사양
+  description: Sonolus 엔진의 사양
 ---
 
 # Sonolus 위키
