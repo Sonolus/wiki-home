@@ -14,9 +14,15 @@ developer:
     - url: '/custom-server-specs'
       title: Özel Sunucu Ayrıntıları
       description: Sonolus özel sunucuları için ayrıntılar
+    - url: /round-multiplayer-server-specs
+      title: Round Multiplayer Server Specs
+      description: Specification for Sonolus round multiplayer servers
     - url: '/level-specs'
       title: Seviye Ayrıntıları
       description: Sonolus seviyeleri için ayrıntılar
+    - url: /replay-specs
+      title: Replay Specs
+      description: Specification for Sonolus replay
     - url: '/skin-specs'
       title: Doku Ayrıntıları
       description: Sonolus dokuları için ayrıntılar

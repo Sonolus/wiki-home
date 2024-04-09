@@ -14,9 +14,15 @@ developer:
     - url: '/custom-server-specs'
       title: Điều kiện và thông số về máy chủ
       description: Điều kiện và thông số dành cho máy chủ tự tạo
+    - url: /round-multiplayer-server-specs
+      title: Round Multiplayer Server Specs
+      description: Specification for Sonolus round multiplayer servers
     - url: /level-specs
       title: Level Specs
       description: Specification for Sonolus levels
+    - url: /replay-specs
+      title: Replay Specs
+      description: Specification for Sonolus replay
     - url: /skin-specs
       title: Skin Specs
       description: Specification for Sonolus skins
