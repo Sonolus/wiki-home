@@ -14,9 +14,15 @@ developer:
     - url: '/custom-server-specs/zht'
       title: 自定義伺服器說明
       description: 有關自定義伺服器的詳細資料
+    - url: /round-multiplayer-server-specs
+      title: Round Multiplayer Server Specs
+      description: Specification for Sonolus round multiplayer servers
     - url: /level-specs
       title: Level Specs
       description: Specification for Sonolus levels
+    - url: /replay-specs
+      title: Replay Specs
+      description: Specification for Sonolus replay
     - url: /skin-specs
       title: Skin Specs
       description: Specification for Sonolus skins

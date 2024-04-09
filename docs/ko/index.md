@@ -14,9 +14,15 @@ developer:
     - url: '/custom-server-specs'
       title: 맞춤 서버 사양
       description: Sonolus 맞춤 서버 사양
+    - url: /round-multiplayer-server-specs
+      title: Round Multiplayer Server Specs
+      description: Specification for Sonolus round multiplayer servers
     - url: '/level-specs'
       title: 레벨 사양
       description: Sonolus 레벨 사양
+    - url: /replay-specs
+      title: Replay Specs
+      description: Specification for Sonolus replay
     - url: '/skin-specs'
       title: 스킨 사양
       description: Sonolus 스킨 사양
